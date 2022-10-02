@@ -1,0 +1,7 @@
+NodeJs works on commonjs
+
+Every file is a module
+
+export objects as an object.
+export functions directly.
+
